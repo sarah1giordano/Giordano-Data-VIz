@@ -14,4 +14,4 @@ A lot of policy research and program evaluation data visualizations can be prett
 Description pending!
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
