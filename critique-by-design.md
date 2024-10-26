@@ -1,5 +1,5 @@
 | [home page](https://sarah1giordano.github.io/Giordano-Data-Viz/)| [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
+ 
 # Title
 Text here...
 
