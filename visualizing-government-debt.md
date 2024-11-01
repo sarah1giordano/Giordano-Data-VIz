@@ -38,7 +38,7 @@ To showcase Japan's particularly high national debt to GDP ratio, I considered t
     
   3) No country has even come close to joining them in crossing the 200% threshold until 2018
     
-  4) If we expect Greece's ratio to increase at a roughly similar rate, they will join Japan in crossing this threshold and being one of the few high debt/GDP ratio countries to continue to increase that ratio, rather than decrease it or hold it steady
+  4) If we expect Greece's ratio to increase at a roughly similar rate, they will join Japan in crossing this threshold. No other country is close to doing so or is increasing their ratio at a similar pace.
     
 
 
