@@ -3,7 +3,6 @@
 # Assignment 2: Visualizing Government Debt
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
 Below is an example visualization from OECD of government debt. OECD's data repository includes different indicators and interactive ways to view the data. These data were found by searching for "government debt," and choosing their general government debt dataset. I was able to choose specific years of data, and chose 2022; the column highlighted in blue is OECD's average country for comparison. 
 
 <img src="Government Debt OECD.png.png" width="600"/>
