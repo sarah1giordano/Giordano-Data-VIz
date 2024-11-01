@@ -3,6 +3,16 @@
 # Assignment 2: Visualizing Government Debt
 Below is an example visualization from OECD of government debt. 
 
+![OECD government debt visualization](Government Debt OECD.png.png)
+> Source <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+  
+
+Alternately, you can set the size of the image using just a bit of HTML: 
+
+<img src="funny-dog-unsplash.jpg" width="200"/>
+
+
+
 ## Part one: Working with web-based visualization tools and data
 
 _Include your visualization, and introduce us to what you did._
