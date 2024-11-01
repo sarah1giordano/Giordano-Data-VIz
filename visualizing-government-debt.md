@@ -31,10 +31,15 @@ The following visualization draws upon the same data from OECD on national debt 
 I created the following visual using Tableau to help visualize the extent to which Japan's national debt to GDP ratio is an outlier, even among countries with high debt to GDP ratios. I played around with the data quite a bit before settling on this idea. While there are a number of stories I could have told -- different regional trends, countries that actually managed to decrease their national debt to GDP ratio, countries with huge changes in their ratios -- I found that this was one of the clearest to visualize. Japan also had high quality data in our dataset; by that, I mean OECD had data for Japan at every time period of interest, so there weren't gaps in the data. 
 
 To showcase Japan's particularly high national debt to GDP ratio, I considered two main options: a bar chart or a line chart. The clearest way to visualize the gap between Japan and the next closest country (Greece) using a bar chart would have required me to select one point in time only. While I found this to be effective, when I tested out a line chart, I found it to be even more effective because it was able to still clearly convey that gap, but now showed that it has existed for ~20 years. While the bar chart lost almost all nuance in the data, the line chart was able to quickly convey the key idea (Japan is much higher than everyone else), while also including ideas such as:
+
     1) This is not recent, Japan has had the highest debt ratio since at least 2000 and crossed the 200% debt ratio in roughly 2010
+    
     2) Japan has remained above the 200% threshold since then
+    
     3) No country has even come close to joining them in crossing the 200% threshold until 2018
+    
     4) If we expect Greece's ratio to increase at a roughly similar rate, they will join Japan in crossing this threshold and being one of the few high debt/GDP ratio countries to continue to increase that ratio, rather than decrease it or hold it steady
+    
 
 
 
