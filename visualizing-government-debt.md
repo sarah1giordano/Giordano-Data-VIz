@@ -8,7 +8,7 @@ Below is an example visualization from OECD of government debt.
   
 
 Alternately, you can set the size of the image using just a bit of HTML: 
-
+<img src="Government Debt OECD.png.png" width="600"/>
 <img src="funny-dog-unsplash.jpg" width="200"/>
 
 
