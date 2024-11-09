@@ -11,7 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-<img src="_126628196_humandevchart.png.webp" width="600"/>
+<img src="HDI Original.png" width="600"/>
 
 ## Step two: the critique
 Overall observations about the data viz. What stood out to me, what did I find worked really well? What didn't? What, if anything, would you do differently?
