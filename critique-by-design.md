@@ -26,7 +26,7 @@ I do think this visual could be easily understood by this audience, but I'm not 
 
 **My recommendations for change:** I identified a few different priorities for change based on this critique. 
 
-1. Change the type of visualization because the simple line graph does not convey enough information or detail on changes in HDI globally. I would try something like the gapminder demo or a map (which I test in the next section), to allow me to break out this data by country (or at the very least by region).
+1. Change the type of visualization because the simple line graph does not convey enough information or detail on changes in HDI globally. I would try something like the gapminder demo ([inspired by this visualization]([[https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2022&oecdcontrol-0b0bb95ebb-var1=OECD_REP%7CCAN%7CCHL%7CCOL%7CCRI%7CMEX%7CUSA%7CGBR%7CTUR%7CCHE%7CSWE%7CESP%7CSVN%7CSVK%7CPRT%7CPOL%7CNOR%7CNZL%7CNLD%7CLUX%7CLTU%7CLVA%7CKOR%7CJPN%7CITA%7CISR%7CIRL%7CISL%7CHUN%7CGRC%7CDEU%7CFRA%7CFIN%7CEST%7CDNK%7CCZE%7CBEL%7CAUT%7CAUS](https://www.bbc.com/news/world-62824357.amp)](https://public.tableau.com/app/profile/jeffrey.shaffer/viz/GapminderbyHansRosling/RoslingGapminder)) or a map (both of which I test in the next section), to allow me to break out this data by country (or at the very least by region).
    
 2. Include a description of what HDI is as a caption for the visual. While a lot of us can intuit what HDI might mean, I think the visual would benefit from a caption with the exact definition and measures that go into hit. HDI includes measures on education, health, and standards of living in each country. These measures include: life expectancy at birth, mean years of schooling of adults aged 25 years and older, expected years of schooling for children, and gross national income per capita. (UNDP, 2024).
 
@@ -50,6 +50,7 @@ Sketch #1
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+[Data source]((https://data.world/makeovermonday/2022w41))
 
 I developed the second option after very preliminary testing of the first led my initial reviewer to the same option I had considered in my critique as well - why isn't this a map? This allowed me to show regional trends without having to build this in as a color scheme or shape element, and I felt had greater perceptibility as well. Everyone instinctively knows that a map can show regional as well as global trends. 
 
@@ -63,7 +64,7 @@ Sketch #2
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+[Data source]((https://data.world/makeovermonday/2022w41))
 
 ## Step four, part A: Test the solution(s)
 
@@ -131,6 +132,7 @@ Based on the initial feedback I received from these reviewers, I developed the f
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+[Data source]((https://data.world/makeovermonday/2022w41)), [Source for definition of HDI]((https://hdr.undp.org/data-center/human-development-index#/indicies/HDI))
 
 In class, I then tested this solution with 3 other graduate students. Overall, they felt that using the map as my basic type chart worked, they liked the colors, and felt that the differentiation during COVID-19 was clear. However, they noted that the percent change was a bit confusing. They couldn't quickly tell whether this was percent change relative to the previous year or relative to a base year or worldwide average. They also had difficulty telling what the midpoint color was in the percent change gradient. 
 
@@ -150,5 +152,6 @@ I developed the following solution based all the critique above. The biggest cha
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+[Data source]((https://data.world/makeovermonday/2022w41))
 
 
