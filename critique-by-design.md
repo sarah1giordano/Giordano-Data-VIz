@@ -65,9 +65,9 @@ Sketch #2
 </script>
 
 
-## Step four: Test the solution(s)
+## Step four, part A: Test the solution(s)
 
-I ended up conducting two rounds of testing, one for my first sketch and another for the second sketch. One reviewer provided feedback on both sketches; another provided feedback just on the final sketch of the map. 
+I reached out to two reviewers for initial feedback on my sketches. One reviewer provided feedback on both sketches; another provided feedback just on the sketch of the map, as by that point I felt settled in using the map. 
 
 **Feedback on Sketch 1**
 
@@ -117,14 +117,35 @@ Clear takeaways:
 
 3. Focus on the first look. I was thrilled with how startling 2020 was on the map in comparison to the previous ~30 some years, but forgot that lots of people won't click through far enough to make it to that point. Watching reviewer #2 interact with the map in real time (particularly as they are not the most tech-savvy person in the world), I was reminded that some people won't click through at all, either because they don't know they can or because they aren't interested enough to do so. If COVID-19 was the main message, it should start first.
 
-4. Think through what data are necessary. Life expectancy was not - that seemed redundant and obvious to reviewer #1. But more gradation on country-level change was of interest. 
+4. Think through what data are necessary. Life expectancy was not - that seemed redundant and obvious to reviewer #1. But more gradation on country-level change was of interest.
 
-## Step five: build the solution
+## Step four, part B: test the redesign in class
+
+Based on the initial feedback I received from these reviewers, I developed the following solution. 
 
 <div class='tableauPlaceholder' id='viz1731189364983' style='position: relative'><noscript><a href='#'><img alt='Percent Change in Human Development Index (HDI) by Country - 2020In 2020, the HDI decreased in 90% of countries due to COVID-19. Some regions were quicker to recover in 2021. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDCritiquebyDesign&#47;MapOption2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWDCritiquebyDesign&#47;MapOption2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDCritiquebyDesign&#47;MapOption2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
  var divElement = document.getElementById('viz1731189364983');                    
  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                  
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+In class, I then tested this solution with 3 other graduate students. Overall, they felt that using the map as my basic type chart worked, they liked the colors, and felt that the differentiation during COVID-19 was clear. However, they noted that the percent change was a bit confusing. They couldn't quickly tell whether this was percent change relative to the previous year or relative to a base year or worldwide average. They also had difficulty telling what the midpoint color was in the percent change gradient. 
+
+They also noted that including life expectancy in the subtitle was confusing. If they were just skimming, they noted that they wouldn't be sure if the map was showing percent change of HDI or of life expectancy. They were similarly confused about what HDI included initially before seeing the caption.
+
+Overall, my takeaways here reemphasized that HDI is confusing. If the change in HDI during 2020 is driven by life expectancy anyways, perhaps the story I should be telling is just of life expectancy. Refocusing the story on that might be more intuitive and clear, and would leave me more room in a caption to explain the color coding for those who are confused. 
+
+## Step five: build the solution
+
+I developed the following solution based all the critique above. The biggest change compared to the prior solution is that I reframed the story just using life expectancy. I felt this was immediately more intuitive and allowed for a more interesting title/storyline. I also added in annotations in the map where there had been major decreases in life expectancy previously, to give the reader more context against which to compare COVID-19. 
+
+<div class='tableauPlaceholder' id='viz1731464006753' style='position: relative'><noscript><a href='#'><img alt='In the past 30 years, the world has never seen a global drop in life expectancy similar to the one caused by COVID-19. The map below shows percent change in life expectancy in 2020 for each country relative to the previous year.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDCritiquebyDesign&#47;MapOption3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWDCritiquebyDesign&#47;MapOption3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDCritiquebyDesign&#47;MapOption3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1731464006753');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
  var scriptElement = document.createElement('script');                    
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
