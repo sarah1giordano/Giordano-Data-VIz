@@ -4,29 +4,42 @@
 
 # Outline
 
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
->
-> The outline of your final project should serve as the building blocks for the rest of your presentation.  Your outline should be something that you can later use to help fill in some of the details around your project.  Outline the major elements of your story. (see Chapter 8 of Good Charts). Incorporate Story Arc and one sentence summary
-> Setup - PGH is an affordable city!
-> Conflict - Whoops no it's not, particularly for low income people
-> Resolution - Get involved! 
+When I moved here from Washington D.C., one of the first things that I said to my friends was "the rent is so cheap here!" That's been my experience with a lot of young professional transplants to Pittsburgh, who are thrilled that for once they can afford a one bedroom by themselves, and can maybe even see themselves buying a home one day if they were to stay in the area. It has only been through talking to people who have been in Pittsburgh for much longer than I have that I have learned how dramatically Pittsburgh's rental prices have increased over the past ten years. The city is - and always has been - unaffordable for it's lower-income residents, and Pittsburgh (like many other major cities) also has a history of displacing low-income neighborhoods, particularly Black residents, in favor of private developers. 
 
+I'm interested in showing this different story of Pittsburgh's affordability for my project. My proposed outline is as follows:
 
-Text here...
+-Setup ("Pittsburgh's cheap!"): Similar to how I first reacted when I moved to Pittsburgh from a more expensive city, and how many of the people I know who don't live in Pittsburgh react when hearing about rent prices here, I will present Pittsburgh as a relatively affordable city. It's ranked as one of the cheapest in the country, and rental prices for a one bedroom here are often much cheaper than in other cities.
+
+-Conflict, Part one ("Whoops, it's actually not affordable"): Pittsburgh has been called cheap and ranks highly in affordability but only *in comparison to other cities*. When you dig into the data, you find that the ratio between median income to housing costs in Pittsburgh still makes it relatively unaffordable. The problem right now is that there is no major city that is in fact affordable. Pittsburgh is simply one of the best in a field of entirely bad options. Like other cities, Pittsburgh's housing costs have also increased dramatically over the past decade. 
+
+-Conflict, Part two ("...particularly for low-income people"): In parallel, as costs have risen, options for public housing in Pittsburgh have declined. The city has destroyed many public housing units, sold land to private developers and displaced long-time residents (particularly Black residents). Over the years, a smaller share of Pittsburgh residents who qualify for public housing assistance are able to get that support, and the Federal government is prohibited from building new public housing.
+
+-Resolution ("There are positive opportunities at a local level"): Compared to other cities, Pittsburgh is actually in a better starting position to develop new housing options and meet the crisis, because the government owns a decent amount of the vacant lots already. The Public Housing Authority here also appears to be pretty good at quickly filling existing public housing units when they become available. There's a history of activism around housing in Pittsburgh and while at the Federal level, the government cannot build more public housing, local governments can. 
+
+-Call to action: These changes affect all of us, because they drastically change who can afford to live in Pittsburgh and who our neighbors are. Even if you're not a low-income resident, you've seen your rent increase, and there's nothing stopping your landlord from increasing it further or selling the property to a huge developer. Get involved in safeguarding housing for everyone by attending a working group meeting and calling the mayor's office to let them know housing is a priority.
 
 <img src="IMG-4621.jpg" width="600"/>
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-Your sketches should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate, but they should be detailed enough so that we can get some sense of what you're planning on doing. You may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
 
-<img src="HDI Original.png" width="600"/>
+Sketch #1: Setup and part one of the conflict
+<img src="IMG-4620.jpg" width="600"/>
+
+Sketch #2: Part two of the conflict - in addition to what I've outlined here, I'm considering emphasizing displacement & increasing sale of properties to huge conglomerates. The second is something that should definitely concern every renter in Pittsburgh and may resonate more with my audience for this project.
+<img src="IMG-4619.jpg" width="600"/>
+
+
+Sketch #3: Hope/resolution/call to action
+<img src="IMG-4618.jpg" width="600"/>
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-Text here...
+I've separated my overview of the data into two sections: raw data sources (open access, public use data sets) and other sources I discovered when researching for the project.
+
+The first section includes datasets I would use to do my own analysis and generate most visuals, such as the change in median rental prices in Pittsburgh over time and the decline of public housing units in Pittsburgh. The first two sources - the Assisted Housing National and Local dataset and the American Community Survey - do not include multiple timepoints, but both sources do have publicly available datasets for each year. I was able to quickly join these tables together so that data across different timepoints is in the same file for ease of analysis. These sources include data not only for Pittsburgh but for other cities, allowing me to do cross-city comparisons for context. Using these datasets, I should be able to gneerate visuals such as a line chart showing Pittsburgh's median rent over time, a bar chart showing Pittsburgh's median rent in 2023 compared to other major U.S. cities, line charts showing the number of people in affordable housing and number of affordable housing units in Pittsburgh over time. By combining key data from each dataset, I can also show what proportion of a low-income Pittsburgh resident's monthly income (Assisted Housing dataset) would go towards rent, if they were paying the median rent price (American Community Survey). 
+
+The second section includes other sources I would use for context, to supplement analysis, or for callout boxes with key statistics. For example, using these resources for context, I hope to create a visual showing where Pittsburgh's median rent falls on a scale from "unaffordable" to "affordable" (using the median household income to rent ratio). I'd like to adapt timelines of housing from a Federal focus to a Pittsburgh-specific context, combining important Federal events with important Pittsburgh events such as the demolition of neighborhoods in the Hill District and the Penn Plaza displacement. These sources also have interesting data on the rate of decline of public housing and the percent of vacant lots owned by the city government that I plan to adapt into visuals.
 
 ## Raw data sources 
 
@@ -35,7 +48,7 @@ Text here...
 |------|-----|-------------|
 | Assisted Housing: National and Local Data | U.S. Department of Housing and Urban Development’s Office of Policy Development and Research| https://www.huduser.gov/portal/datasets/assthsg.html#data_2009-2023 | Includes data on how Federal government dollars are used to support low-income renters, by year. Relevant data points include: number of public housing units, percent of units occupied, total people supported, average rent per month, average household income per month, and demographic makeup of individuals |
 | American Community Survey | U.S. Census Bureau | https://data.census.gov/table?q=median%20gross%20rent&g=050XX00US42003&y=2023 | Includes data on median gross rent by county, by year. Since 2015, these data also include a breakdown of median gross rent by number of bedrooms as well. |
-| Historical Census of Housing Tables | U.S. Census Bureau | https://www.census.gov/data/tables/time-series/dec/coh-grossrents.html | Includes data on median gross rent by state by decade, from 1940-2000, adjusted to 2000's dollars, for context. |
+
 
 ## Other sources to potentially use for context
 
@@ -55,7 +68,6 @@ Text here...
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
- Will you use Shorthand and Tableau?  ArcGIS Story Maps, or something else?  You may also propose doing something else entirely (AR / VR, mixed media, data sonification, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  To that end however, I want you to steer clear of using tools like MS Powerpoint and MS Excel for your final project.  Instead, your final project deliverable should be an interactive, stand-alone project that leverages some of the tools we've covered in the class (e.g. something you've created using Shorthand or another interactive platform, with data visualizations created in Tableau).  If you have something else in mind, talk to me first.
-> 
-Text here...
+
+I plan to use Shorthand and Tableau for my project. I'm not entirely sure what Shorthand is capable of yet: based on the in-class preview of past projects, it's clear that it can handle timelines quite well, but I'm not sure if it will allow me to develop some of the more "design" visuals that I've proposed, such as icons to help visualize the destruction of public housing or the history of housing activism in Pittsburgh. If it can't handle this, I've been able to design pretty simply visuals similar to this just using PowerPoint before. 
+
