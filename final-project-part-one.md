@@ -14,6 +14,8 @@
 
 Text here...
 
+<img src="IMG-4621.jpg" width="600"/>
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 Your sketches should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate, but they should be detailed enough so that we can get some sense of what you're planning on doing. You may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
