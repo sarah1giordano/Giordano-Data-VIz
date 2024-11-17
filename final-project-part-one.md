@@ -23,13 +23,19 @@ I'm interested in showing this different story of Pittsburgh's affordability for
 ## Initial sketches
 
 Sketch #1: Setup and part one of the conflict
+
+
 <img src="IMG-4620.jpg" width="600"/>
 
 Sketch #2: Part two of the conflict - in addition to what I've outlined here, I'm considering emphasizing displacement & increasing sale of properties to huge conglomerates. The second is something that should definitely concern every renter in Pittsburgh and may resonate more with my audience for this project.
+
+
 <img src="IMG-4619.jpg" width="600"/>
 
 
 Sketch #3: Hope/resolution/call to action
+
+
 <img src="IMG-4618.jpg" width="600"/>
 
 
