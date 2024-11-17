@@ -27,6 +27,8 @@ Text here...
 Text here...
 
 ## Raw data sources 
+
+
 | Name | Source | URL | Description |
 |------|-----|-------------|
 | Assisted Housing: National and Local Data | U.S. Department of Housing and Urban Development’s Office of Policy Development and Research| https://www.huduser.gov/portal/datasets/assthsg.html#data_2009-2023 | Includes data on how Federal government dollars are used to support low-income renters, by year. Relevant data points include: number of public housing units, percent of units occupied, total people supported, average rent per month, average household income per month, and demographic makeup of individuals |
@@ -34,6 +36,8 @@ Text here...
 | Historical Census of Housing Tables | U.S. Census Bureau | https://www.census.gov/data/tables/time-series/dec/coh-grossrents.html | Includes data on median gross rent by state by decade, from 1940-2000, adjusted to 2000's dollars, for context. |
 
 ## Other sources to potentially use for context
+
+
 | Name | Source | URL | Description |
 |------|-----|-------------|
 | Public Housing Data Dashboard | U.S. Department of Housing and Urban Development | https://www.hud.gov/program_offices/public_indian_housing/programs/ph/PH_Dashboard | Includes an overview of key data points related to Federal funding for public housing and progress towards targets. |
