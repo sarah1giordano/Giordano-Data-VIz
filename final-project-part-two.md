@@ -112,14 +112,11 @@ In keeping with these goals, I asked the following questions of each interviewee
 | 4 | What would you change about these visuals? Could be something specific to one visual, could be something about several of them. |
 
 
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+I conducted three interviews, all with individuals in their mid to late 20s that fit the description of my target audience (new transplants to Pittsburgh and/or people who frequently visit Pittsburgh but are not originally from the city, highly educated, interested in public policy issues). 
 
-| Interview question(s)   | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Interview question(s)   | Interview 1 (28, Masters in Education, currently lives in DC but frequently in Pittsburgh and originally from Michigan) | Interview 2 (28, MPP, has lived in Pittsburgh for 4+ years but originally from Chicago) | Interview 3 (26, MPP, currently lives in Philadelphia but experience in Pittsburgh, Chicago, and DC) |
 |-------------------------|--------------------------------|-------------|-------------|
 | What's the story, what's your main takeaway, and what's missing? (Q1-3 in table above) | Their takeaway was that while Pittsburgh may have lower rents than comparable cities, rents have still increased rapidly, and there is a gap between housing needs and services provided. Without the narrative piece, they felt that the link between the first two visuals (setup visuals) and the second sets of data (rampant housing insecurity) has to be made by the viewer, but they also felt it fit the set up/conflict format well. | Their takeaway was that Pittsburgh has long been one of the most affordable cities in the U.S. in terms of housing, but costs have risen steeply over the past decade while affordable housing has declined. They noted a second thought they were walking away with that they inferred from the data but didn't see directly - that lower income people may be getting pushed out of Pittsburgh due to housing prices and that Pittsburgh may not remain affordable for long. They were interested to see more narrative, human interest in the story that puts a "face to the story", so they were excited to hear I planned to incorporate that in the narrative sections. They also noted it would be good to understand where displacement is occuring, where those displaced residents are going, and what might be driving cost increases in Pittsburgh. They remembered a news piece about gentrification in Pittsburgh that they suggested I look for, which was a great suggestion! |             |
 | What's your favorite visual from setup? Why? | Visual #2 - they felt it was a more useful comparison since the cities were more comparable. | Visual #2 - they noted that Pittsburgh isn't comparable in many ways to coastal cities. They thought it was interesting to see that even among midsized cities with similar economic histories, it's still one of the most affordable. |             |
