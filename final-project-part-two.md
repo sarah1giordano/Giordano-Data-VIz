@@ -11,7 +11,9 @@ I opted to set up my storyboard on Github (below) for the time being. Because I'
 <img src="vidar-nordli-mathisen-9HGqJq3vglc-unsplash.jpg" width="1200"/>
 (Photo by Vidar Nordli-Mathisen on Unsplash)
 
+
 Callout statistics highlight that Pittsburgh is currently ranked #5 in the U.S. in home owning/rent affordability and #1 across the U.S., Canada, U.K., Australia, New Zealand, China, and Japan for the best median income to house price ratio.
+
 
 Visualization #1
 
@@ -57,9 +59,20 @@ Visualization #3
 
 [Source](https://data.census.gov/table?q=median%20gross%20rent&g=050XX00US42003&y=2023)
 
-And while it is highly ranked, that doesn't mean much if it's only the best of a bad situation. The same report that ranked Pittsburgh as #1 in terms of the best median to house price ratio also notes that the ratio is still what they qualify as "unaffordable."
+And while it is highly ranked, that doesn't mean much if it's only the best of a bad situation. The same report that ranked Pittsburgh as #1 in terms of the best median to house price ratio also notes that the ratio is still what they qualify as "unaffordable." 
+
+<img src="IMG-4638.jpg" width="250"/>
 
 As prices increase, those who make a median income in Pittsburgh might find their budget looks a little tighter. Those who are lower-income, though, might find that they have been priced out entirely.
+
+Pittsburgh - like the rest of the nation - has a long history of displacing long-time residents, particularly Black residents, as prices increase and areas gentrify. And in tandem, like the rest of the country, it has also gradually lost more and more of its public housing. 
+
+
+Timeline visual (will eventually be in Shorthand!) of displacement and public housing events:
+
+
+
+
 
 
 
