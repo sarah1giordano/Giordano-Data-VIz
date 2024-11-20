@@ -8,7 +8,7 @@ I opted to set up my storyboard on Github (below) for the time being. Because I'
 
 ## Setup
 
-
+<img src="vidar-nordli-mathisen-9HGqJq3vglc-unsplash.jpg" width="1200"/>
 (Photo by Vidar Nordli-Mathisen on Unsplash)
 
 Callout statistics highlight that Pittsburgh is currently ranked #5 in the U.S. in home owning/rent affordability and #1 across the U.S., Canada, U.K., Australia, New Zealand, China, and Japan for the best median income to house price ratio.
@@ -40,8 +40,9 @@ Visualization #2
 [Source](https://data.census.gov/table?q=median%20gross%20rent&g=050XX00US42003&y=2023)
 
 
-## Conflict visualizations (middle point of story)
+## Conflict storyboard and visualizations (middle part of story)
 
+While the vision of Pittsburgh is of an affordable city, much like most of the country, prices have quickly been increasing over time. 
 
 Visualization #3
 
@@ -55,6 +56,12 @@ Visualization #3
 </script>
 
 [Source](https://data.census.gov/table?q=median%20gross%20rent&g=050XX00US42003&y=2023)
+
+And while it is highly ranked, that doesn't mean much if it's only the best of a bad situation. The same report that ranked Pittsburgh as #1 in terms of the best median to house price ratio also notes that the ratio is still what they qualify as "unaffordable."
+
+As prices increase, those who make a median income in Pittsburgh might find their budget looks a little tighter. Those who are lower-income, though, might find that they have been priced out entirely.
+
+
 
 Visualization #4
 
