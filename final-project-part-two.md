@@ -7,7 +7,7 @@ Based on my sketches from the first part of the project, I developed five draft 
 I opted to set up my storyboard on Github (below) for the time being. Because I'm new to Shorthand, I didn't feel confident turning something around for my testers in time on that platform - but I also knew I wanted to move past the purely hand drawn storyboard and start testing some data visualizations in Tableau. Incorporating narrative, some hand drawn elements, and data visualizations on Github allowed me to still give my testers a sense of the narrative.
 
 ## Setup
-
+ 
 <img src="vidar-nordli-mathisen-9HGqJq3vglc-unsplash.jpg" width="1200"/>
 (Photo by Vidar Nordli-Mathisen on Unsplash)
 
