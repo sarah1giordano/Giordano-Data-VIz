@@ -2,9 +2,16 @@
 
 # Wireframes / storyboards
 
-Based on my sketches from the first part of the project, I developed five draft data visualizations using the raw data from the U.S. Census' American Community Survey and the U.S. Department of Housing and Urban Development’s Office of Policy Development and Research's Assisted Housing datasets. Two of these visualizations are part of the proposed "set up" of my story, and three are part of the "conflict" of my story. 
+Based on my sketches from the first part of the project, I developed five draft data visualizations using the raw data from the U.S. Census' American Community Survey and the U.S. Department of Housing and Urban Development’s Office of Policy Development and Research's Assisted Housing datasets. Two of these visualizations are part of the proposed "set up" of my story, and three are part of the "conflict" of my story. I also tweaked my story set up slightly based on the feedback I received from classmates the week of 11/19. 
 
-## Setup visualizations (story introduction)
+I opted to set up my storyboard on Github (below) for the time being. Because I'm new to Shorthand, I didn't feel confident turning something around for my testers in time on that platform - but I also knew I wanted to move past the purely hand drawn storyboard and start testing some data visualizations in Tableau. Incorporating narrative, some hand drawn elements, and data visualizations on Github allowed me to still give my testers a sense of the narrative.
+
+## Setup
+
+
+(Photo by Vidar Nordli-Mathisen on Unsplash)
+
+Callout statistics highlight that Pittsburgh is currently ranked #5 in the U.S. in home owning/rent affordability and #1 across the U.S., Canada, U.K., Australia, New Zealand, China, and Japan for the best median income to house price ratio.
 
 Visualization #1
 
@@ -82,7 +89,7 @@ Visualization #5
 
 ## Target audience
 
-First and foremost, I wanted to test my visaulizations with individuals somewhat similar to the audience for my final presentation. This meant identifying representatives who are highly educated and/or interested in public policy and data analysis; who are between roughly 22-35; and who have some familiarity with Pittsburgh but are not long-time residents of Pittsburgh. While some students at Heinz grew up in Pittsburgh, the majority of us are new to the city and have not developed as much local context yet. I wanted to make sure that these visualizations still resonated with those "new" to Pittsburgh and who are (likely) not currently thinking as much about housing long-term in Pittsburgh as they are about other issues in their lives. Does the story still resonate? What do they take away from it - and is it what I hoped they would take away? Do the visuals leave them thinking "so what?" or "what does that have to do with me?"
+First and foremost, I wanted to test my visaulizations with individuals somewhat similar to the audience for my final presentation. This meant identifying representatives who are highly educated and/or interested in public policy and data analysis; who are between roughly 22-35; and who have some familiarity with Pittsburgh but are not long-time residents of Pittsburgh. (Luckily, I know a lot of people in Pittsburgh or somewhat connected to Pittsburgh that fit this profile, so I planned to recruit from my friends.) While some students at Heinz grew up in Pittsburgh, the majority of us are new to the city and have not developed as much local context yet. I wanted to make sure that these visualizations still resonated with those "new" to Pittsburgh and who are (likely) not currently thinking as much about housing long-term in Pittsburgh as they are about other issues in their lives. Does the story still resonate? What do they take away from it - and is it what I hoped they would take away? Do the visuals leave them thinking "so what?" or "what does that have to do with me?"
 
 ## Interview script
 
