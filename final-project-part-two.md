@@ -176,6 +176,7 @@ I conducted three interviews, all with individuals in their mid to late 20s that
 # Identified changes for Part III
 
 Based on my interviews, I plan to make the following adjustments:
+
 1) Incorporating even more of the "face of the story", quotes and callout text from people who have been displaced and research on where those residents are moving. In general, I think this is my biggest takeaway.
    
 2) Including a little more focus on the present day - where are residents now? What neighborhoods are rapidly changing? What are people doing in response? - will help ground the call to action section more. 
