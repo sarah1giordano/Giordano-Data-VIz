@@ -112,6 +112,16 @@ We're all affected by increasing home and rent prices in Pittsburgh. But unlike 
 
 Pittsburgh also has a strong history of community activism around housing that can benefit all of us, even those of us not looking for public housing. 
 
+<img src="IMG-4640.jpg" width="500"/>
+
+
+(I plan to also include some callout quotes here from people involved in the fair housing movement in Pittsburgh about what it means to be a good neighbor, what these neighborhoods mean to them.)
+
+To get involved, not only to lower your own rent but to protect the ability of all types of people to live in Pittsburgh, follow one of the action items below. (Ideally, I'll design this using QR codes too so people can scan them and be directed to the appropriate link).
+
+1. Come to the next housing rights working group meeting and connect with other students from CMU and Pitt that are interested in housing justice!
+2. Attend Pittsburgh's Fair Housing Summit
+3. Call your local representative to let them know that prices are too high - and that housing is an issue that they must take care of!
 
 # User research 
 
@@ -164,24 +174,24 @@ I conducted three interviews, all with individuals in their mid to late 20s that
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on my interviews, I plan to make the following adjustments:
+1) Incorporating even more of the "face of the story", quotes and callout text from people who have been displaced and research on where those residents are moving. In general, I think this is my biggest takeaway.
+   
+2) Including a little more focus on the present day - where are residents now? What neighborhoods are rapidly changing? What are people doing in response? - will help ground the call to action section more. 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+3) Focus my visuals in the set up section on the most comparable cities - 2/3 interviewees agreed that the Rust Belt comparison was far more helpful than the major cities comparison, and I'm inclined to agree with them. I may end up tweaking this to include another bar with the national average as a reference point as well, since there was an interest in more reference points.
 
-> ...include any final thoughts you have here. 
+4) Tweak my line graph of visual #3 to give a comparison to the national average. I haven't dug into whether Pittsburgh's rate of increase is similar to the national average or not, and I should do some of that analysis to either include an appropriate reference line or to provide appropriate context narratively for the visual. If it has been increasing more than the national average, that would certainly be interesting to show.
 
-Text here!
+5) I may break visual #4 into side-by-side line charts instead of including both these lines on the same visual. While I want the analysis to be paired together, this did confuse 2/3 interviewees, and I can understand why.
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+6) I think I'm going to jettison visual #5 - while only one interviewee brought up issues with this visual, and it was the favorite for another visual, I was already having doubts about it. I think this could probably be better communicated as a callout statistic like "The median rent in Pittsburgh is 80% of what low-income residents earn monthly".
 
-Text here!
+In general, the feedback that resonated the most with me and is my biggest takeaway from this process is to focus on the real people behind the data. That, rather than the raw data, is the real heart of the story and will move people the most. Including some narrative elements and photos (if any historical photos are free to use) will help make the point that this is a real issue happening to real people.
 
+Feedback I do not plan to incorporate:
+
+1) A focus on COVID. I don't think that's the story I want to tell here, and I think ultimately it would distract from a pretty straightforward narrative.
+   
+2) Mobile friendliness. This is just not a challenge I'm prepared to take on, given the time frame, but it would be interesting to adapt to mobile devices in the future!
