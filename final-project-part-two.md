@@ -65,12 +65,12 @@ And while it is highly ranked, that doesn't mean much if it's only the best of a
 
 As prices increase, those who make a median income in Pittsburgh might find their budget looks a little tighter. Those who are lower-income, though, might find that they have been priced out entirely.
 
-Pittsburgh - like the rest of the nation - has a long history of displacing long-time residents, particularly Black residents, as prices increase and areas gentrify. And in tandem, like the rest of the country, it has also gradually lost more and more of its public housing. 
+Pittsburgh - like the rest of the nation - has a long history of displacing long-time residents, particularly Black residents, as prices increase and areas gentrify. And in tandem, like the rest of the country, it has also gradually lost more and more of its public housing as the value of real estate becomes more lucrative. 
 
 
 Timeline visual (will eventually be in Shorthand!) of displacement and public housing events:
 
-
+<img src="IMG-4639.jpg" width="1000"/>
 
 
 
@@ -103,6 +103,14 @@ Visualization #5
 
 
 [Source 1](https://data.census.gov/table?q=median%20gross%20rent&g=050XX00US42003&y=2023), [Source 2](https://www.huduser.gov/portal/datasets/assthsg.html#data_2009-2023)
+
+Today, this means that many long-time residents, low-income residents, and people of color can no longer afford to live in Pittsburgh or are only able to find housing in particular neighborhoods. As prices continue to increase, even middle-class residents and students are being driven to look for more affordable housing as well, sometimes leading to these residents entering new areas and beginning to price out their neighbors once again. 
+
+## But there's reason for hope! (Conclusions and call to action)
+
+We're all affected by increasing home and rent prices in Pittsburgh. But unlike cities like New York, where nearly every square inch of space already seems to be in use, or cities like L.A., where most vacant lots are owned privately by individual owners or multinational corporations, Pittsburgh both has a lot of space and relatively more local government ownership of vacant lots. 
+
+Pittsburgh also has a strong history of community activism around housing that can benefit all of us, even those of us not looking for public housing. 
 
 
 # User research 
