@@ -8,10 +8,16 @@ A lot of policy research and program evaluation data visualizations can be prett
 
 # Portfolio
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+##[Visualizing government debt] (visualizing-government-debt)
+Practicing visualizations using web-based datasets and Tableau, and then developing my own original visualization of these data using Tableau.
+
+## [Assignment 3&4: Critique by Design](critique-by-design)
+Critiquing an exisiting data visualization, and then exploring the dataset and creating a new visualization using Tableau.
 
 ## Final project
-Description pending!
+Examining housing costs and public housing availability in Pittsburgh over time using Tableau and Shorthand. Final story can be found hosted on [Carnegie Mellon's Shorthand platform here] (https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html)
+
+I documented the process towards making this final project at the links below:
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
