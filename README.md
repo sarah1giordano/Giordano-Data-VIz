@@ -14,7 +14,7 @@ Practicing visualizations using web-based datasets and Tableau, and then develop
 ## [Assignment 3&4: Critique by Design](critique-by-design)
 Critiquing an exisiting data visualization, and then exploring the dataset and creating a new visualization using Tableau.
 
-## Final project
+## [Final project](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html)
 Examining housing costs and public housing availability in Pittsburgh over time using Tableau and Shorthand. Final story can be found hosted on [Carnegie Mellon's Shorthand platform here](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html).
 
 I documented the process towards making this final project at the links below:
