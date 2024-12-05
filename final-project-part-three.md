@@ -110,5 +110,5 @@ All my sources are captured at the end of my Shorthand presentation, and also in
 27. Vrabel, J. (2018). Key Moments in the Penn Plaza Displacement Saga. Public Source. https://www.publicsource.org/key-moments-in-the-penn-plaza-displacement-saga/
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+Something I touched on a bit earlier, but want to note again: I didn't end up talking much about where displaced residents were going. If I had more time, or if I were going back in time and choosing a different topic, I might have picked this as a focused topic for its own data story. I think that would have been really interesting data to explore and to visualize, and also an interesting way to talk about the issue of displacement in Pittsburgh. It would have also allowed readers to see what's going on in there own neighborhood in a little more detail, and perhaps connect with the issue more because of it. 
 
